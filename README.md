@@ -1,4 +1,4 @@
-# Shallow-Neural-Network
+# ShallowNeuralNetwork
 
 ## Description
 This Python project integrates a basic neural network with a Streamlit interface, enabling the visualization of decision boundaries in a two-class system. It's a practical tool for understanding neural network dynamics and data classification.
@@ -13,6 +13,6 @@ This Python project integrates a basic neural network with a Streamlit interface
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/<your-username>/NeuralNet-DecisionBoundary-Visualizer.git
-cd NeuralNet-DecisionBoundary-Visualizer
+git clone https://github.com/SilviaTr/ShallowNeuralNetwork.git
+cd ShallowNeuralNetwork
 pip install -r requirements.txt
