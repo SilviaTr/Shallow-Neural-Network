@@ -14,5 +14,7 @@ Clone the repository and install the required packages:
 
 ```bash
 git clone https://github.com/SilviaTr/Shallow-Neural-Network.git
-cd Shallow-Neural-Network
+```
+```bash
 pip install -r requirements.txt
+```
